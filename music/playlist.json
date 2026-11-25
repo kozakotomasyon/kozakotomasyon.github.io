@@ -1,0 +1,15 @@
+{
+  "name": "KOZAK MUSIC PLAYER",
+  "version": "1.0",
+  "language": "tr-TR",
+  "tracks": [
+    {
+      "id": 1,
+      "title": "BONCUK Test Muzigi",
+      "artist": "KOZAK",
+      "category": "Test",
+      "url": "https://kozakotomasyon.github.io/music/test.mp3",
+      "format": "mp3"
+    }
+  ]
+}
